@@ -1,8 +1,32 @@
+## pure HTML+CSS+JS
+
+- [shoppingCart](./shoppingCart/)
+- [technicDocument](./technicDocument/)
+- [telephoneNumberValidator](./telephoneNumberValidator/)
+- [platformerGame](./platformerGame/)
+- [romanNumberConverter](./romanNumberConverter/)
+- [palindromeChecker](./palindromeChecker/)
+- [diceGame](./diceGame/)
+
 ## express + mongoDB
 
-[execercisetracker](./exercisetracker/) [filemetadata](./filemetadata/) [headerparser](./headerparser/) [timestamp](./timestamp/) [urlshortener](./urlshortener)
-There are several projects created by `mongoose` `express` `cjs`
+- [execercisetracker](./exercisetracker/)
+- [filemetadata](./filemetadata/)
+- [headerparser](./headerparser/)
+- [timestamp](./timestamp/)
+- [urlshortener](./urlshortener)
 
-## [psql practice](./psql-universe/)
+## postgresql
 
-## [bash shell](./shell)
+- [student](./psql-student-database/)
+- [universe](./psql-universe/)
+
+## bash
+
+- [basic](./shell/)
+- [worldcup](./worldcup/) `insert data into postgresql`
+
+## python
+
+- [caesar&vigenere](./caesar&vigenere/) `encrypt/decrypt with caesar/vigenere`
+- [arithmeticFormatter](./arithmeticFormatter/)
