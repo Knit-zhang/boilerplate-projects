@@ -30,3 +30,5 @@
 
 - [caesar&vigenere](./caesar&vigenere/) `encrypt/decrypt with caesar/vigenere`
 - [arithmeticFormatter](./arithmeticFormatter/)
+- [dijkstra's algorithm](./dijkstraAlgorithm/)
+- [Tower of Hanoi](./towerOfHanoi/)
