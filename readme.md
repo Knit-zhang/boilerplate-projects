@@ -32,3 +32,4 @@
 - [arithmeticFormatter](./arithmeticFormatter/)
 - [dijkstra's algorithm](./dijkstraAlgorithm/)
 - [Tower of Hanoi](./towerOfHanoi/)
+- [Time Calculator](./timeCalculater/)
