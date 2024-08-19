@@ -1,20 +1,20 @@
 ## pure HTML+CSS+JS
 
-- [shoppingCart](./shoppingCart/)
-- [technicDocument](./technicDocument/)
-- [telephoneNumberValidator](./telephoneNumberValidator/)
-- [platformerGame](./platformerGame/)
-- [romanNumberConverter](./romanNumberConverter/)
-- [palindromeChecker](./palindromeChecker/)
-- [diceGame](./diceGame/)
+- [Shopping Cart](./shoppingCart/)
+- [Technic Document](./technicDocument/)
+- [Telephone Number Validator](./telephoneNumberValidator/)
+- [Platformer Game](./platformerGame/)
+- [Roman Number Converter](./romanNumberConverter/)
+- [Palindrome Checker](./palindromeChecker/)
+- [Dice Game](./diceGame/)
 
 ## express + mongoDB
 
-- [execercisetracker](./exercisetracker/)
-- [filemetadata](./filemetadata/)
-- [headerparser](./headerparser/)
-- [timestamp](./timestamp/)
-- [urlshortener](./urlshortener)
+- [Execercise tracker](./exercisetracker/)
+- [File Metadata](./filemetadata/)
+- [Header Parser](./headerparser/)
+- [Timestamp](./timestamp/)
+- [URL Shortener](./urlshortener)
 
 ## postgresql
 
@@ -28,9 +28,11 @@
 
 ## python
 
-- [caesar&vigenere](./caesar&vigenere/) `encrypt/decrypt with caesar/vigenere`
-- [arithmeticFormatter](./arithmeticFormatter/)
-- [dijkstra's algorithm](./dijkstraAlgorithm/)
+- [Caesar & Vigenere](./caesar&vigenere/) `encrypt/decrypt with caesar/vigenere`
+- [Arithmetic Formatter](./arithmeticFormatter/)
+- [Dijkstra's algorithm](./dijkstraAlgorithm/)
 - [Tower of Hanoi](./towerOfHanoi/)
 - [Time Calculator](./timeCalculater/)
 - [Budget](./budget/)
+- [Polygon Area Calculator](./polygonAreaCalculator/)
+- [Probability Calculator](./probabilityCalculator/)
